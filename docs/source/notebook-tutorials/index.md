@@ -1,0 +1,7 @@
+# Notebook Tutorials
+
+:::{toctree}
+:glob:
+
+*
+:::

@@ -1,0 +1,11 @@
+Welcome to Sphinx Test's documentation!
+=======================================
+
+.. include:: index.md
+   :parser: myst_parser.sphinx_
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Contents:
+
+..    setup-guide/index

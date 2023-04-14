@@ -1,0 +1,7 @@
+# Decision Log
+
+:::{toctree}
+:glob:
+
+*
+:::
